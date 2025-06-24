@@ -1,5 +1,3 @@
-# Hi 👋, I'm Md Khairul Bashar
-
 ![Header](https://raw.githubusercontent.com/knaeeim/knaeeim/main/Md%20Khairul%20Bashar%20github%20banner.png)
 
 ### A passionate frontend developer from Dhaka, Bangladesh
