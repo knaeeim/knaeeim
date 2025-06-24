@@ -21,8 +21,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=knaeeim&theme=dark&hide_border=true" width="350" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaeeim&theme=dark&hide_border=true&layout=compact" width="400" alt="Top Languages"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaeeim&theme=dark&hide_border=true&layout=compact" width="350" alt="Top Languages"/>
 </p>
 
 
