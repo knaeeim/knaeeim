@@ -1,5 +1,7 @@
 ![Header](https://raw.githubusercontent.com/knaeeim/knaeeim/main/Md%20Khairul%20Bashar%20github%20banner.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=knaeeim&label=Profile%20views&color=0e75b6&style=flat" alt="knaeeim" /> </p>
+
 ### A passionate MERN Stack developer from Dhaka, Bangladesh
 
 ---
@@ -18,7 +20,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=knaeeim&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="350" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=knaeeim&theme=dark&hide_border=true" width="388" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=knaeeim&theme=dark&hide_border=true" width="387" alt="GitHub Streak"/>
 </p>
 
 <p>
