@@ -5,7 +5,7 @@
 ---
 
 # 💫 About Me:
-- 💻 Frontend-focused developer currently working with the **MERN stack**: React, Node.js, Express, and MongoDB  <br>- 🧑‍💼 Previously worked with **Django** for backend development  <br>- 📈 I have a strong foundation in **problem solving**—solved 500+ problems across platforms like Codeforces, CodeChef, and LeetCode  <br>- 💡 Built my DSA skills using **C++**, with a 62-day problem-solving streak at peak learning time  <br>- 🔁 Although I’m not actively participating in contests now, I can revisit and apply these concepts quickly as needed  <br>- 📧 Reach me at: **kmnaeeim@gmail.com**<br>
+-💻 Frontend-focused developer currently working with the **MERN stack**: React, Node.js, Express, and MongoDB  <br>- 🧑‍💼 Previously worked with **Django** for backend development  <br>- 📈 I have a strong foundation in **problem solving**—solved 500+ problems across platforms like Codeforces, CodeChef, and LeetCode  <br>- 💡 Built my DSA skills using **C++**, with a 62-day problem-solving streak at peak learning time  <br>- 🔁 Although I’m not actively participating in contests now, I can revisit and apply these concepts quickly as needed  <br>- 📧 Reach me at: **kmnaeeim@gmail.com**<br>
 
 
 ## 🌐 Socials:
