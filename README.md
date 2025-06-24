@@ -16,9 +16,9 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=knaeeim&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="350" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=knaeeim&theme=dark&hide_border=true" width="350" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=knaeeim&theme=dark&hide_border=true" width="400" alt="GitHub Streak"/>
 </p>
 
 <p>
