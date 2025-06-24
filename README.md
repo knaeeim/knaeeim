@@ -1,3 +1,6 @@
+
+[![Header]([https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png](https://raw.githubusercontent.com/knaeeim/knaeeim/refs/heads/main/Md%20Khairul%20Bashar%20github%20banner.png) "Header")]
+
 <h1 align="center">Hi 👋, I'm Md Khairul Bashar</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
