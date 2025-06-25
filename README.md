@@ -31,8 +31,8 @@ currently_learning:
 <div align="center">
 
 <!-- Main stats row -->
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=knaeeim&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaeeim&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
+<img height="200" width="455" src="https://github-readme-stats.vercel.app/api?username=knaeeim&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
+<img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaeeim&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
 
 <!-- Streak stats -->
 <img src="https://streak-stats.demolab.com/?user=knaeeim&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
