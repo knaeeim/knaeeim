@@ -7,7 +7,6 @@
 ```yaml
 name: Md Khairul Bashar
 located_in: Dhaka, Bangladesh
-current_work: Full-Stack Developer
   
 currently_learning: 
   - "Next.js 15"
