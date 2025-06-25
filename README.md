@@ -5,8 +5,8 @@
 ### A passionate MERN Stack developer from Dhaka, Bangladesh
 
 ```yaml
-name: Md Khairul Bashar
-located_in: Dhaka, Bangladesh
+Name: Md Khairul Bashar
+Located_in: Dhaka, Bangladesh
   
 currently_learning: 
   - "Next.js 15"
